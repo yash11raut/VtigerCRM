@@ -1,6 +1,6 @@
 package encapsulation;
 public class Account{
-	
+	private int blank;
 	private String bank ;
 	private String type ;
 	private String name ;
