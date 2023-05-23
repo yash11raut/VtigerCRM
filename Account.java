@@ -88,6 +88,19 @@ public class Account{
 				{
 					System.out.println("Incoorect crredential!");
 				}
+				
+				if (balence - amount > = 1000) {
+					
+					balence = balence - amount ;
+					
+					System.out.println("Withdrow amount successfully!");
+					
+					System.out.println(balence);
+					
+				}
+				else {
+					System.out.println("incorrect ccredential");
+				}
 			}
 	
 		
