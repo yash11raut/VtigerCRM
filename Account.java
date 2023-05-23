@@ -101,6 +101,66 @@ public class Account{
 				else {
 					System.out.println("incorrect ccredential");
 				}
+				if (balence - amount > = 1000) {
+					
+					balence = balence - amount ;
+					
+					System.out.println("Withdrow amount successfully!");
+					
+					System.out.println(balence);
+					
+				}
+				else {
+					System.out.println("incorrect ccredential");
+				}
+				if (balence - amount > = 1000) {
+					
+					balence = balence - amount ;
+					
+					System.out.println("Withdrow amount successfully!");
+					
+					System.out.println(balence);
+					
+				}
+				else {
+					System.out.println("incorrect ccredential");
+				}
+				if (balence - amount > = 1000) {
+					
+					balence = balence - amount ;
+					
+					System.out.println("Withdrow amount successfully!");
+					
+					System.out.println(balence);
+					
+				}
+				else {
+					System.out.println("incorrect ccredential");
+				}
+				if (balence - amount > = 1000) {
+					
+					balence = balence - amount ;
+					
+					System.out.println("Withdrow amount successfully!");
+					
+					System.out.println(balence);
+					
+				}
+				else {
+					System.out.println("incorrect ccredential");
+				}
+				if (balence - amount > = 1000) {
+					
+					balence = balence - amount ;
+					
+					System.out.println("Withdrow amount successfully!");
+					
+					System.out.println(balence);
+					
+				}
+				else {
+					System.out.println("incorrect ccredential");
+				}
 			}
 	
 		
